@@ -6,11 +6,11 @@
 
 ## Learning Path
 
-1. Get started with Power Automate for desktop
+1. [Get started with Power Automate for desktop](https://github.com/emanoelcampos/power-automate-desktop/tree/master/getting-started)
 - [x] Take your first steps with Power Automate for desktop
 - [x] Power Automate for desktop development essentials
 
-2. Work with Power Automate for desktop
+2. [Work with Power Automate for desktop](https://github.com/emanoelcampos/power-automate-desktop/tree/master/working-with-pa)
 - [x] Handle variables in Power Automate for desktop
 - [ ] Automate repetitive tasks using loops in Power Automate for desktop
 - [ ] Adjust process behavior using conditional actions with Power Automate for desktop
